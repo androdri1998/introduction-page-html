@@ -8,6 +8,14 @@ This a project to practice HTML and CSS
 
 # Designs
 
+### Desktop View
+
 ![Desktop View](/assets/desktop.png "Desktop View")
+
+### Middle Screen View
+
 ![Middle Screen View](/assets/middle-screen.png "Middle Screen View")
+
+### Mobile View
+
 ![Mobile View](/assets/mobile.png "Mobile View")
